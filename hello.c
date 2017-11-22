@@ -8,5 +8,6 @@ int main()
 	printf("Tell his name!\n");
 	printf("Hello C world!\n");
 	printf("Tell her name\n");
+	printf("Hello GitHub\n");
 	return 0;
 }
